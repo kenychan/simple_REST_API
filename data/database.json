@@ -1,0 +1,34 @@
+[
+    {
+        "user": "default",
+        "userID": 0,
+        "lists": [
+            {
+                "name": "new_listname",
+                "listID": 0,
+                "tasks": [
+                    {
+                        "name": "TestItem 2",
+                        "taskID": 1,
+                        "done": false
+                    },
+                    {
+                        "name": "newly_modified_taskname",
+                        "taskID": 4,
+                        "done": true
+                    }
+                ]
+            },
+            {
+                "name": "newlist",
+                "listID": 2,
+                "tasks": []
+            }
+        ]
+    },
+    {
+        "user": "newuser",
+        "userID": 2,
+        "lists": []
+    }
+]
